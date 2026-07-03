@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Mangesh%20Alange&fontAlign=50&fontAlignY=35&color=0:0f2027,50:203a43,100:2c5364&fontColor=00F7FF&animation=twinkling&desc=AI%20Engineer%20%7C%20GenAI%20Builder%20%7C%20Problem%20Solver&descAlign=50&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Mangesh%20Alange&fontAlign=50&fontAlignY=28&color=0:0f2027,50:203a43,100:2c5364&fontColor=00F7FF&animation=twinkling&desc=AI%20Engineer%20%7C%20GenAI%20Builder%20%7C%20Problem%20Solver&descAlign=50&descAlignY=68&descSize=34" />
 </p>
 
 ---
