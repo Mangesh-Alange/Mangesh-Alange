@@ -44,6 +44,8 @@ LangChain · RAG pipelines · Vector DBs · Google ADK · Salesforce data pipeli
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mangesh-Alange&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mangesh-Alange&theme=tokyo-night&hide_border=true" width="100%"/>
+
 ---
 
 <p align="center"><i>From land-record digitization to voice agents for rural India — I like building things that quietly work at scale.</i></p>
